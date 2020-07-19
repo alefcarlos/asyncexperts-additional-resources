@@ -142,22 +142,31 @@ http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
 
 Project Loom
 https://wiki.openjdk.java.net/display/loom/Main
+
 Dependency injection in ASP.NET Core
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
+
 Injection Constructors should be simple
 https://blog.ploeh.dk/2011/03/03/InjectionConstructorsshouldbesimple/
+
 Stephen Cleary's blog post
 https://blog.stephencleary.com/2013/01/async-oop-2-constructors.html
+
 null-conditional await proposal
 https://github.com/dotnet/csharplang/issues/35
+
 Task Exception Handling in .NET 4.5
 https://devblogs.microsoft.com/pfxteam/task-exception-handling-in-net-4-5/
+
 Await, and UI, and deadlocks! Oh my!
 https://devblogs.microsoft.com/pfxteam/await-and-ui-and-deadlocks-oh-my/
+
 Should I expose asynchronous wrappers for synchronous methods?
 https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/
+
 ASP.NET Core Diagnostic Scenarios
 https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
+
 Discussion: async constructors #419
 https://github.com/dotnet/csharplang/issues/419
 
